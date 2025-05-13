@@ -63,12 +63,15 @@ These notebooks are meant for review and reference. To run them:
 
 
 ## Sample Output
-![image](https://github.com/user-attachments/assets/627be2c7-c970-48ea-a92f-fb1f01f3066e)
+**Tweet Distribution by Geography and Time of Day**
+ ![USA Map](https://github.com/user-attachments/assets/7eceb92c-c4c8-40c9-a85e-0597eced86fc)
+ ![Tweet Count by Hour](https://github.com/user-attachments/assets/047581b7-e688-409b-940c-3cada0347516)
 
-![image](https://github.com/user-attachments/assets/b05c9ea1-288e-4285-b231-325326596f9b)
+ **Genre and Temporal Trends in Movie Ratings**
+ ![Ratings by time of the year](https://github.com/user-attachments/assets/9500c6f2-7613-4b5a-9573-952fce5636d0)
+ ![Genre Distribution](https://github.com/user-attachments/assets/2cf3048c-d739-4d46-855f-6dae9b221a45)
 
-
-
+ 
 
 ##  Author
 
